@@ -5,4 +5,5 @@
   (lib (name "SF7381-5PG-3ES")(type "KiCad")(uri "${KIPRJMOD}/SF7381-5PG-3ES.pretty")(options "")(descr "")(disabled))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/ul_T4140012051-000/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "modified_footprints")(type "KiCad")(uri "${KIPRJMOD}/modified_footprints.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
 )

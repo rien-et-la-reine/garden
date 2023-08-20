@@ -1,3 +1,4 @@
 - T4140012051-000 connector footprint and symbol from Ultra Librarian (https://app.ultralibrarian.com/details/FB519E38-103E-11E9-AB3A-0A3560A4CCCC/TE-Connectivity/T4140012051-000)
 - nicenano! footprint and symbol created by bstiq (https://github.com/bstiq/nice-nano-kicad)
 - MX switches symbols and footprints from ai03 (https://github.com/ai03-2725/MX_Alps_Hybrid.pretty)
+- thanks to keebio for their repositories of various keyboard component symbols and footprints as well (https://github.com/keebio/Keebio-Parts.pretty)(https://github.com/keebio/keebio-components)
