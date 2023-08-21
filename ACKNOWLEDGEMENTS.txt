@@ -2,3 +2,4 @@
 - nicenano! footprint and symbol created by bstiq (https://github.com/bstiq/nice-nano-kicad)
 - MX switches symbols and footprints from ai03 (https://github.com/ai03-2725/MX_Alps_Hybrid.pretty)
 - thanks to keebio for their repositories of various keyboard component symbols and footprints as well (https://github.com/keebio/Keebio-Parts.pretty)(https://github.com/keebio/keebio-components)
+- nice!view footprint adapted from duckyb's urchin (https://github.com/duckyb/urchin/blob/master/lib/nice_view.kicad_mod)
