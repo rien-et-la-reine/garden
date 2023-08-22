@@ -4,3 +4,5 @@
 - MX switches symbols and footprints from ai03 (https://github.com/ai03-2725/MX_Alps_Hybrid.pretty)
 - nice!view footprint from duckyb's urchin (https://github.com/duckyb/urchin/blob/master/lib/nice_view.kicad_mod)
 - thanks to keebio for their repositories of various keyboard component symbols and footprints as well (https://github.com/keebio/Keebio-Parts.pretty)(https://github.com/keebio/keebio-components)
+- b3u-1000p (reset switch) footprint from Ultra Librarian (https://app.ultralibrarian.com/details/74AEE764-E087-11EB-9033-0A34D6323D74/Omron/B3U-1000P)
+- pcm12smtr (power switch) symbol and footprint from SnapEDA (https://www.snapeda.com/parts/PCM12SMTR/C&K%20(VA)/view-part/)
