@@ -7,4 +7,5 @@
   (lib (name "modified_footprints")(type "KiCad")(uri "${KIPRJMOD}/modified_footprints.pretty")(options "")(descr ""))
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "keyboard_reversible")(type "KiCad")(uri "${KIPRJMOD}/keyboard_reversible.pretty")(options "")(descr ""))
+  (lib (name "footprints_benV")(type "KiCad")(uri "${KIPRJMOD}/ergogen/src/footprints")(options "")(descr ""))
 )
