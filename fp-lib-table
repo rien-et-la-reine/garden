@@ -7,5 +7,7 @@
   (lib (name "modified_footprints")(type "KiCad")(uri "${KIPRJMOD}/modified_footprints.pretty")(options "")(descr ""))
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "keyboard_reversible")(type "KiCad")(uri "${KIPRJMOD}/keyboard_reversible.pretty")(options "")(descr ""))
-  (lib (name "footprints_benV")(type "KiCad")(uri "${KIPRJMOD}/ergogen/src/footprints")(options "")(descr ""))
+  (lib (name "footprints_benV")(type "KiCad")(uri "${KIPRJMOD}/ergogen/src/footprints")(options "")(descr "")(disabled))
+  (lib (name "footprints_buttonSwitch")(type "KiCad")(uri "${KIPRJMOD}/ul_B3U-1000P-/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "PCM12SMTR")(type "KiCad")(uri "${KIPRJMOD}/PCM12SMTR")(options "")(descr ""))
 )
